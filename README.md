@@ -1,0 +1,1 @@
+This project is a simple text-based battle simulator in which the user enters their character's name, energy level, and points. After entering the information, the system displays an opponent. The project demonstrates basic input and output operations and the handling of character attributes in a game.
